@@ -29,7 +29,6 @@ Modules
 Optional modules (for image recognition)
 * `pytesseract` (requires tesseract installation)
 * `opencv`
-* `PIL`
 
 Tested on x86_64 Linux/MacOS. ARM64 (Aarch64) Linux.
 
