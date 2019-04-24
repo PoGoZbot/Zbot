@@ -1,0 +1,4 @@
+discord.py==https://github.com/Rapptz/discord.py/archive/rewrite.zip#egg=discord.py
+opencv-python-headless==3.4.3.18
+pytesseract==0.2.5
+pyxDamerauLevenshtein==1.5

@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# emacs
+*~
+
+# Zbot
+config.py
+*.log
+
+# Misc
+*.bak
+*.1
+*.orig
