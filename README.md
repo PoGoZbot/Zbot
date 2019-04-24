@@ -55,6 +55,7 @@ The absolute minimum Zbot needs to work is:
   Ready-made versions available:
   * https://github.com/pokemongo-dev-contrib/pokemongo-game-master
   * https://github.com/ZeChrales/PogoAssets
+
 In this minimal form, you can send a direct message to Zbot with a raid screenshot
 and it will reply with its best guess.
 
